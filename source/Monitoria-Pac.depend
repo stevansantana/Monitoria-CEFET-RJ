@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1707530157 source:c:\users\steva\downloads\monitoria-pac\main.c
+	"funcoes.h"
+
+1707531823 source:c:\users\steva\downloads\monitoria-pac\busca.c
+	"funcoes.h"
+
+1707531823 c:\users\steva\downloads\monitoria-pac\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1707531822 source:c:\users\steva\downloads\monitoria-pac\emitirrelatorio.c
+	"funcoes.h"
+
+1707531822 source:c:\users\steva\downloads\monitoria-pac\emitirzerados.c
+	"funcoes.h"
+
+1707531822 source:c:\users\steva\downloads\monitoria-pac\exibemaior.c
+	"funcoes.h"
+
+1707531823 source:c:\users\steva\downloads\monitoria-pac\ledadosclientes.c
+	"funcoes.h"
+
+1707531823 source:c:\users\steva\downloads\monitoria-pac\lemovimentacao.c
+	"funcoes.h"
+
+1708949375 source:c:\users\steva\downloads\monitoria-pac\monitoria-pac\busca.c
+	"funcoes.h"
+
+1708949375 c:\users\steva\downloads\monitoria-pac\monitoria-pac\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1708949375 source:c:\users\steva\downloads\monitoria-pac\monitoria-pac\emitirrelatorio.c
+	"funcoes.h"
+
+1708949375 source:c:\users\steva\downloads\monitoria-pac\monitoria-pac\emitirzerados.c
+	"funcoes.h"
+
+1708949375 source:c:\users\steva\downloads\monitoria-pac\monitoria-pac\exibemaior.c
+	"funcoes.h"
+
+1708949375 source:c:\users\steva\downloads\monitoria-pac\monitoria-pac\ledadosclientes.c
+	"funcoes.h"
+
+1708949375 source:c:\users\steva\downloads\monitoria-pac\monitoria-pac\lemovimentacao.c
+	"funcoes.h"
+
+1708949375 source:c:\users\steva\downloads\monitoria-pac\monitoria-pac\main.c
+	"funcoes.h"
+
